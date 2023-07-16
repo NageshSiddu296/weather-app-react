@@ -7,7 +7,7 @@ const Currentweather = () => {
       <div className='details-container'>
         <div className='description-container'>
           <h5>Now</h5>
-          <h2>23</h2>
+          <h2>2355</h2>
           <h5>Description</h5>
         </div>
         <img src='' alt='icon' className='icon'/>
